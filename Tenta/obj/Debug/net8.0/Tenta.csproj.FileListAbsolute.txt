@@ -1,0 +1,15 @@
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\obj\Debug\net8.0\Tenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\obj\Debug\net8.0\Tenta.AssemblyInfoInputs.cache
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\obj\Debug\net8.0\Tenta.AssemblyInfo.cs
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\obj\Debug\net8.0\Tenta.csproj.CoreCompileInputs.cache
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\obj\Debug\net8.0\Tenta.sourcelink.json
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\bin\Debug\net8.0\Tenta.exe
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\bin\Debug\net8.0\Tenta.deps.json
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\bin\Debug\net8.0\Tenta.runtimeconfig.json
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\bin\Debug\net8.0\Tenta.dll
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\bin\Debug\net8.0\Tenta.pdb
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\obj\Debug\net8.0\Tenta.dll
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\obj\Debug\net8.0\refint\Tenta.dll
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\obj\Debug\net8.0\Tenta.pdb
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\obj\Debug\net8.0\Tenta.genruntimeconfig.cache
+C:\Users\Johan\OneDrive\Dokument\C#\Tenta\obj\Debug\net8.0\ref\Tenta.dll
